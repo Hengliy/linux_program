@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(untitled file/file1.cpp)
+add_executable(untitled file/file1.cpp file/mmap.cpp file/main.cpp file/defination.h file/fcntl.cpp file/ioctl.cpp)

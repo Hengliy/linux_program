@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/file/file1.cpp.o CMakeFiles/untitled.dir/file/mmap.cpp.o CMakeFiles/untitled.dir/file/main.cpp.o CMakeFiles/untitled.dir/file/fcntl.cpp.o CMakeFiles/untitled.dir/file/ioctl.cpp.o  -o untitled 
